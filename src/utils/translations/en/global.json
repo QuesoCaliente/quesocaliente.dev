@@ -1,0 +1,33 @@
+{
+    "about": {
+        "title": "About",
+        "description": "I have been working with web development for 1 year and I have experience in the development of web applications using Javascript, React, NextJs, Html, Css, TailwindCss, Bootstrap, and other technologies.",
+        "title-2": "My name is Brian and I am a Frontend Developer from Chile"
+    },  
+    "projects": {
+        "title": "Featured Projects",
+        "description": "Here you can see some of my projects, I have worked on them with different technologies and I have learned a lot from them."
+    },
+    "skills": {
+        "title": "Skills"
+    },
+    "contact": {
+        "title": "Contact me",
+        "inputs": {
+            "email": "Email",
+            "subject": "Subject",
+            "message": "Message",
+            "submit": "Send"
+        }
+        
+    },
+    "footer": {
+        "title": "Made with ❤️ by Brian Cifuentes",
+        "legal": {
+            "title": "Legal",
+            "terms": "Terms and conditions",
+            "privacy": "Privacy policy",
+            "cookies": "Cookies policy"
+        }
+    }
+}
