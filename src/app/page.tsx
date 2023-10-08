@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <>
       <About />
-      <CardList title="Projectos" items={projects} />
+      <CardList title="Proyectos" items={projects} />
       <SkillList title={"Habilidades"} items={skills} />
       <Contact />
     </>
